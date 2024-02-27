@@ -1,0 +1,19 @@
+
+.detail-main{
+    display: flex;
+    flex-direction: column;
+}
+.quantities{
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+    width: 70%;
+    margin-left: 15%;
+    text-align: left;
+}
+span{
+    background-color: rgb(120, 218, 218);
+    border-radius: 20px;
+}
