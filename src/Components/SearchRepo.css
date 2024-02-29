@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    margin: 20px;
+    align-items: center;
+}
+
+input{
+    margin-left: 15%;
+    height: 40px;
+    width: 80%;
+    background-color: azure;
+}
+button{
+    margin: 10px;
+    height: 40px;
+    background-color: azure;
+}
+button:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
