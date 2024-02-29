@@ -1,7 +1,7 @@
 import './SearchRepo.css'
 import React from 'react'
 
-export default function () {
+export default function SearchRepo() {
   return (
     <div className='main'>
         <input type='text' placeholder='Search repository...'/>
